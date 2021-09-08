@@ -8,7 +8,7 @@ while True:
 		d2 = random.randint(1,6)
 		print(f'\nDice #1 = {d1}  /  Dice #2 = {d2}\n')
 		if(d1 + d2 == 7):
-			print("CONGRATS!!! You have a 7")
+			print("CONGRATS!!! You have a 7\n")
 	elif user == 2:
 		break
 	else:
